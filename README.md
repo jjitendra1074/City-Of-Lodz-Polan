@@ -1,4 +1,4 @@
-# City-Of-Lodz-Polan Project
+# City-Of-Poland
 end to end delivery
 <!DOCTYPE html>
 <html lang="en">
@@ -8,6 +8,6 @@ end to end delivery
     <title>Document</title>
 </head>
 <body>
-    Congratulation this is first Github code By Nitish Mishra
+    Congratulation this is first Github code By Jitendra Singh
 </body>
 </html>
