@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+pgvector
+sentence-transformers
+FlagEmbedding
+pymupdf
+python-multipart
+pytesseract
+Pillow
+requests
+numpy
+scikit-learn
+azure-ai-inference
